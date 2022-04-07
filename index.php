@@ -35,7 +35,7 @@
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
     <!-- form to get the base and height from the user -->
     <form action="./results.php" method="post" target="results">
-      <label for=lblBase>Edge (cm):</label>
+      <label for=lblEdge>Edge (cm):</label>
       <input type="text" id="base" placeholder="Enter the edge (cm)" name="edge"><br>
       <input type="submit" value="Calculate">
     </form>
@@ -44,7 +44,7 @@
 	    </iframe>
     <!-- Description of an octahedron -->
     <?php 
-      echo "<center><h6>An octahedron is a polyhedron that has six vertices, eight faces, and twelve edges. It is formed by connected the bases of two pyramids together. The volume and surface area of an octahedron can be calculated using the value of only one edge.</h6></center>";
+      echo "<center><h6>An octahedron is a polyhedron that has six vertices, eight faces, and twelve edges. It is formed by connecting the bases of two pyramids together. The volume and surface area of an octahedron can be calculated using the value of only one edge.</h6></center>";
     ?>
     <br></br>
     <center><img src="./images/plant.jpg" width=13.5%><img src="./images/dice.jpg" width=13.5%><img src="./images/rubiks.jpg" width=13.5%><img src="./images/crystal.jpg" width=11.5%></center>
