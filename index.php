@@ -18,7 +18,7 @@
     <!-- Link to CSS file -->
     <link rel="stylesheet" href="./css/style.css" />
     <!-- Title -->
-    <title>Assignment 02</title>
+    <title>Calculating Octahedrons</title>
   </head>
 	<body>
     <br>
