@@ -59,6 +59,7 @@
     <?php
       echo "<center><h6>Can you think of any real world examples of octahedrons?</h6></center>";
     ?>
+    <!-- Yes and no buttons -->
     <center><label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
         <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="1" checked>
         <span class="mdl-radio__label">Yes</span>
