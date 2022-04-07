@@ -3,7 +3,7 @@
   <head>
     <!-- Meta Data -->
     <meta charset="utf-8" />
-    <meta name="description" content="Area and Perimeter, with JavaScript" />
+    <meta name="description" content="Calculate the Volume and Surface Area of an Octahedron" />
     <meta name="keywords" content="immaculata, ics2o" />
     <meta name="author" content="Anita Kay" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
